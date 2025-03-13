@@ -1,4 +1,4 @@
----
+6578a85ac341c771027e6d5834fd5e9b4456ef706d648a14a477d82bc0979eaf913e5cf7295878bd14c60fe9836dca3b073555631145f74dca1d3467fe0b0a9c---
 title: Installing your own GitHub App
 intro: 'You can install a {% data variables.product.prodname_github_app %} that you created on the personal or organization account that owns the app. If your app is public, the {% data variables.product.prodname_github_app %} can also be installed on other accounts.'
 redirect_from:
